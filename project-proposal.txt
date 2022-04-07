@@ -1,0 +1,24 @@
+My project would be an online space to share
+recipes with other users. The user would be brought
+to the login/registration page to either create a
+new account along with a password, or be able to
+enter using their email and password if they already
+have an account. The user would then be brought to
+the dashboard where they would be able to see all the
+recipes they have created along with the recipes
+other users have created. When the user clicks on the
+recipe, they will be able to see information such as
+prep time, cook, time, ingredients, and instructions.
+The user will also be able to like or dislike the
+recipe. If the user has created the recipe, they
+will be able to edit it. When creating or editing a
+recipe you must input the name and all information 
+specified above.
+
+Feature List:
+-Login and Registration
+-Create and edit recipes easily
+-Dashboard to get to desired page
+-View recipes
+-Like and Dislike recipes
+
